@@ -26,7 +26,7 @@ To exit the program, select option 3 from the menu. The program will display a m
 
 ## Package
 
-This program is included in the `oopsdan` package. To use the program in your own Java project, you can simply import the `oopsdan.PasswordManager` class and call it's `main` method.
+This program is included in the `oopsdan` package. To use the program in your own Java project, you can simply import the `oopsdan.PasswordManager` class and call its `main` method.
 
 ## License
 
