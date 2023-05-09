@@ -28,6 +28,10 @@ To exit the program, select option 3 from the menu. The program will display a m
 
 This program is included in the `oopsdan` package. To use the program in your own Java project, you can simply import the `oopsdan.PasswordManager` class and call its `main` method.
 
+## Contributing
+
+This program was created as a learning exercise and is not intended for production use. However, if you would like to contribute to the project, feel free to submit a pull request.
+
 ## License
 
 This project is released under the MIT license. See the `LICENSE` file for more information.
